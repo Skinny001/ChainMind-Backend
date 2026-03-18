@@ -23,6 +23,7 @@ contract SimulationTest is Test {
         token.transfer(user1, 10_000 * 1e18);
         token.transfer(user2, 10_000 * 1e18);
         token.transfer(attacker, 5_000 * 1e18);
+        token.transfer(address(token), 100_000 * 1e18); // Fund the pool for flash loans
     }
 
     function test_ReentrancyAttack() public {
