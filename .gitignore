@@ -1,0 +1,17 @@
+# Python dependencies
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.env
+
+# API Keys & Secrets (Global match)
+.env
+.env*
+**/.env
+**/.env*
+!.env.example
+
+# OS
+.DS_Store

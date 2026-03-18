@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://celo-sepolia.g.alchemy.com/v2/4cFpDV2GU2KSppqZkAswH116MsPm2mEL"
+    },
+    {
+      "rpc": "https://celo-sepolia.g.alchemy.com/v2/4cFpDV2GU2KSppqZkAswH116MsPm2mEL"
+    },
+    {
+      "rpc": "https://celo-sepolia.g.alchemy.com/v2/4cFpDV2GU2KSppqZkAswH116MsPm2mEL"
+    },
+    {
+      "rpc": "https://celo-sepolia.g.alchemy.com/v2/4cFpDV2GU2KSppqZkAswH116MsPm2mEL"
+    }
+  ]
+}
